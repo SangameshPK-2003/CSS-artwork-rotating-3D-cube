@@ -9,6 +9,7 @@ body {
 
 .container {
   perspective: 800px;
+  font-weight: bold;
 }
 
 .cube {
