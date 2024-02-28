@@ -33,7 +33,7 @@ body {
 }
 
 .front  { transform: translateZ(100px);}
-.back   { transform: rotateY(180deg) translateZ(100px);}
+/*.back   { transform: rotateY(180deg) translateZ(100px);}*/
 .left   { transform: rotateY(-90deg) translateZ(100px); }
 .right  { transform: rotateY(90deg) translateZ(100px); }
 .top    { transform: rotateX(90deg) translateZ(100px); }
