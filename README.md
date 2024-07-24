@@ -28,6 +28,6 @@ Extend the project to support multiple cubes on the screen, each with its own un
 Experiment with additional 3D transformations beyond the basic rotation, such as scaling or skewing.
 
 8) Interactive Events:
-Implement interactive events like hovering over a face to trigger effects or displaying additional information.
+Implement interactive events like hovering over a face to trigger effects or displaying additional information./////
 
 
