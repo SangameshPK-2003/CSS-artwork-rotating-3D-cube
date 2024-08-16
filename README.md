@@ -9,7 +9,6 @@ Add buttons or sliders for users to control the rotation speed and direction.
 Replace the numbers on the cube faces with dynamic content, such as images, text, or icons.
 Load content dynamically from an external source, like an API, to make it more versatile.
 
-
 3) Responsive Design:
 Ensure the project is fully responsive and looks good on various screen sizes.
 Optimize the layout and styling for mobile devices.
